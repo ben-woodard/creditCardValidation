@@ -1,2 +1,2 @@
 # cc_creditcardnumbers
-project for checking validity of credit card numbers
+JavaScript project for credit card validation
