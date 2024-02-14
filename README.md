@@ -1,2 +1,2 @@
-# cc_creditcardnumbers
+# Overview
 JavaScript project for credit card validation
